@@ -1,0 +1,194 @@
+.path1_0 {
+	-webkit-transform-origin: 50% 50%;
+	-moz-transform-origin: 50% 50%;
+	-ms-transform-origin: 50% 50%;
+	-o-transform-origin: 50% 50%;
+	transform-origin: 50% 50%;
+	-webkit-animation: points 500ms 0ms 1 normal ease-in-out forwards,dash1 1s 100ms 1 normal ease-in-out forwards,r1 1s 100ms 1 normal ease-in-out forwards;
+	-moz-animation: points 500ms 0ms 1 normal ease-in-out forwards,dash1 1s 100ms 1 normal ease-in-out forwards,r1 1s 100ms 1 normal ease-in-out forwards;
+	-ms-animation: points 500ms 0ms 1 normal ease-in-out forwards,dash1 1s 100ms 1 normal ease-in-out forwards,r1 1s 100ms 1 normal ease-in-out forwards;
+	-o-animation: points 500ms 0ms 1 normal ease-in-out forwards,dash1 1s 100ms 1 normal ease-in-out forwards,r1 1s 100ms 1 normal ease-in-out forwards;
+	animation: points 500ms 0ms 1 normal ease-in-out forwards,dash1 1s 100ms 1 normal ease-in-out forwards,r1 1s 100ms 1 normal ease-in-out forwards;
+}
+.path1_1 {
+	-webkit-animation: points 500ms 0ms 1 normal ease-in-out forwards,mT 1s 100ms 1 normal ease-in-out forwards;
+	-moz-animation: points 500ms 0ms 1 normal ease-in-out forwards,mT 1s 100ms 1 normal ease-in-out forwards;
+	-ms-animation: points 500ms 0ms 1 normal ease-in-out forwards,mT 1s 100ms 1 normal ease-in-out forwards;
+	-o-animation: points 500ms 0ms 1 normal ease-in-out forwards,mT 1s 100ms 1 normal ease-in-out forwards;
+	animation: points 500ms 0ms 1 normal ease-in-out forwards,mT 1s 100ms 1 normal ease-in-out forwards;
+}
+.path1_2 {
+	-webkit-transform-origin: 50% 50%;
+	-moz-transform-origin: 50% 50%;
+	-ms-transform-origin: 50% 50%;
+	-o-transform-origin: 50% 50%;
+	transform-origin: 50% 50%;
+	-webkit-animation: points 500ms 0ms 1 normal ease-in-out forwards,dash1 1s 100ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	-moz-animation: points 500ms 0ms 1 normal ease-in-out forwards,dash1 1s 100ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	-ms-animation: points 500ms 0ms 1 normal ease-in-out forwards,dash1 1s 100ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	-o-animation: points 500ms 0ms 1 normal ease-in-out forwards,dash1 1s 100ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	animation: points 500ms 0ms 1 normal ease-in-out forwards,dash1 1s 100ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+}
+.r2{
+	-webkit-transform-origin: 50% 50%;
+	-moz-transform-origin: 50% 50%;
+	-ms-transform-origin: 50% 50%;
+	-o-transform-origin: 50% 50%;
+	transform-origin: 50% 50%;
+	-webkit-animation: r2 1s 100ms 1 normal ease-in-out forwards;
+	-moz-animation: r2 1s 100ms 1 normal ease-in-out forwards;
+	-ms-animation: r2 1s 100ms 1 normal ease-in-out forwards;
+	-o-animation: r2 1s 100ms 1 normal ease-in-out forwards;
+	animation: r2 1s 100ms 1 normal ease-in-out forwards;
+}
+.path2 {
+	-webkit-animation: points 500ms 100ms 1 normal ease-in-out forwards,dash2 1s 200ms 1 normal ease-in-out forwards;
+	-moz-animation: points 500ms 100ms 1 normal ease-in-out forwards,dash2 1s 200ms 1 normal ease-in-out forwards;
+	-ms-animation: points 500ms 100ms 1 normal ease-in-out forwards,dash2 1s 200ms 1 normal ease-in-out forwards;
+	-o-animation: points 500ms 100ms 1 normal ease-in-out forwards,dash2 1s 200ms 1 normal ease-in-out forwards;
+	animation: points 500ms 100ms 1 normal ease-in-out forwards,dash2 1s 200ms 1 normal ease-in-out forwards;
+}
+.path3 {
+	-webkit-animation: points 500ms 200ms 1 normal ease-in-out forwards,dash3 1s 300ms 1 normal ease-in-out forwards;
+	-moz-animation: points 500ms 200ms 1 normal ease-in-out forwards,dash3 1s 300ms 1 normal ease-in-out forwards;
+	-ms-animation: points 500ms 200ms 1 normal ease-in-out forwards,dash3 1s 300ms 1 normal ease-in-out forwards;
+	-o-animation: points 500ms 200ms 1 normal ease-in-out forwards,dash3 1s 300ms 1 normal ease-in-out forwards;
+	animation: points 500ms 200ms 1 normal ease-in-out forwards,dash3 1s 300ms 1 normal ease-in-out forwards;
+}
+.path4 {
+	-webkit-animation: points 500ms 300ms 1 normal ease-in-out forwards,dash4 1s 400ms 1 normal ease-in-out forwards;
+	-moz-animation: points 500ms 300ms 1 normal ease-in-out forwards,dash4 1s 400ms 1 normal ease-in-out forwards;
+	-ms-animation: points 500ms 300ms 1 normal ease-in-out forwards,dash4 1s 400ms 1 normal ease-in-out forwards;
+	-o-animation: points 500ms 300ms 1 normal ease-in-out forwards,dash4 1s 400ms 1 normal ease-in-out forwards;
+	animation: points 500ms 300ms 1 normal ease-in-out forwards,dash4 1s 400ms 1 normal ease-in-out forwards;
+}
+.path5 {
+	-webkit-transform-origin: 50% 50%;
+	-moz-transform-origin: 50% 50%;
+	-ms-transform-origin: 50% 50%;
+	-o-transform-origin: 50% 50%;
+	transform-origin: 50% 50%;
+	-webkit-animation: points 500ms 400ms 1 normal ease-in-out forwards,dash5 1s 500ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	-webkit-animation: points 500ms 400ms 1 normal ease-in-out forwards,dash5 1s 500ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	-ms-animation: points 500ms 400ms 1 normal ease-in-out forwards,dash5 1s 500ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	-o-animation: points 500ms 400ms 1 normal ease-in-out forwards,dash5 1s 500ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	animation: points 500ms 400ms 1 normal ease-in-out forwards,dash5 1s 500ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+}
+.path6 {
+
+	-webkit-animation: points 500ms 500ms 1 normal ease-in-out forwards,dash6 1s 600ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	-moz-animation: points 500ms 500ms 1 normal ease-in-out forwards,dash6 1s 600ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	-ms-animation: points 500ms 500ms 1 normal ease-in-out forwards,dash6 1s 600ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	-o-animation: points 500ms 500ms 1 normal ease-in-out forwards,dash6 1s 600ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+	animation: points 500ms 500ms 1 normal ease-in-out forwards,dash6 1s 600ms 1 normal ease-in-out forwards,r2 1s 100ms 1 normal ease-in-out forwards;
+}
+
+#intro{
+	stroke-dasharray: 200;
+	stroke-dashoffset: 199.9;
+	stroke-width: 0;
+	
+	-webkit-transform-origin: 50% 50%;
+	-moz-transform-origin: 50% 50%;
+	-ms-transform-origin: 50% 50%;
+	-o-transform-origin: 50% 50%;
+	transform-origin: 50% 50%;
+	-webkit-animation: zoom 700ms 1500ms 1 normal cubic-bezier(0.890, 0.000, 0.950, -0.150) forwards;
+	-moz-animation: zoom 700ms 1500ms 1 normal cubic-bezier(0.890, 0.000, 0.950, -0.150) forwards;
+	-ms-animation: zoom 700ms 1500ms 1 normal cubic-bezier(0.890, 0.000, 0.950, -0.150) forwards;
+	-o-animation: zoom 700ms 1500ms 1 normal cubic-bezier(0.890, 0.000, 0.950, -0.150) forwards;
+	animation: zoom 700ms 1500ms 1 normal cubic-bezier(0.890, 0.000, 0.950, -0.150) forwards;
+
+}
+#fading{
+	-webkit-animation: fade 200ms 2000ms 1 normal ease forwards;
+	-moz-animation: fade 200ms 2000ms 1 normal ease forwards;
+	-ms-animation: fade 200ms 2000ms 1 normal ease forwards;
+	-o-animation: fade 200ms 2000ms 1 normal ease forwards;
+	animation: fade 200ms 2000ms 1 normal ease forwards;
+	
+}
+/* Draw lines START */
+@-webkit-keyframes dash1 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 162;}}
+@-webkit-keyframes dash2 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 108;}}
+@-webkit-keyframes dash3 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 189;}}
+@-webkit-keyframes dash4 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 41;}}
+@-webkit-keyframes dash5 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 142;}}
+@-webkit-keyframes dash6 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 188;}}
+
+@-moz-keyframes dash1 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 162;}}
+@-moz-keyframes dash2 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 108;}}
+@-moz-keyframes dash3 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 189;}}
+@-moz-keyframes dash4 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 41;}}
+@-moz-keyframes dash5 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 142;}}
+@-moz-keyframes dash6 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 188;}}
+
+@-ms-keyframes dash1 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 162;}}
+@-ms-keyframes dash2 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 108;}}
+@-ms-keyframes dash3 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 189;}}
+@-ms-keyframes dash4 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 41;}}
+@-ms-keyframes dash5 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 142;}}
+@-ms-keyframes dash6 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 188;}}
+
+@-o-keyframes dash1 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 162;}}
+@-o-keyframes dash2 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 108;}}
+@-o-keyframes dash3 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 189;}}
+@-o-keyframes dash4 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 41;}}
+@-o-keyframes dash5 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 142;}}
+@-o-keyframes dash6 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 188;}}
+
+@keyframes dash1 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 162;}}
+@keyframes dash2 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 108;}}
+@keyframes dash3 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 189;}}
+@keyframes dash4 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 41;}}
+@keyframes dash5 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 142;}}
+@keyframes dash6 {0% {stroke-dashoffset: 199.9;}100% {stroke-dashoffset: 188;}}
+/* Draw lines END */
+
+/* Show points START */
+@-webkit-keyframes points {0% {stroke-width: 0;}100% {stroke-width: 15;}}
+@-moz-keyframes points {0% {stroke-width: 0;}100% {stroke-width: 15;}}
+@-ms-keyframes points {0% {stroke-width: 0;}100% {stroke-width: 15;}}
+@-o-keyframes points {0% {stroke-width: 0;}100% {stroke-width: 15;}}
+@keyframes points {0% {stroke-width: 0;}100% {stroke-width: 15;}}
+/* Show points END */
+
+/* Scale intro START */
+@-webkit-keyframes zoom {0%{-webkit-transform: scale(1);}100% {-webkit-transform: scale(20);}}
+@-moz-keyframes zoom {0%{-moz-transform: scale(1);}100% {-moz-transform: scale(20);}}
+@-ms-keyframes zoom {0%{-ms-transform: scale(1);}100% {-ms-transform: scale(20);}}
+@-o-keyframes zoom {0%{-o-transform: scale(1);}100% {-o-transform: scale(20);}}
+@keyframes zoom {0%{transform: scale(1);}100% {transform: scale(20);}}
+/* Scale intro END */
+
+/* Rotate1 part START */
+@-webkit-keyframes r1 {0%{-webkit-transform: rotate(45deg);}100% {-webkit-transform: rotate(0deg);}}
+@-moz-keyframes r1 {0%{-moz-transform: rotate(45deg);}100% {-moz-transform: rotate(0deg);}}
+@-ms-keyframes r1 {0%{-ms-transform: rotate(45deg);}100% {-ms-transform: rotate(0deg);}}
+@-o-keyframes r1 {0%{-o-transform: rotate(45deg);}100% {-o-transform: rotate(0deg);}}
+@keyframes r1 {0%{transform: rotate(45deg);}100% {transform: rotate(0deg);}}
+/* Rotate1 part END */
+/* Rotate1 part START */
+@-webkit-keyframes r2 {0%{-webkit-transform: rotate(-45deg);}100% {-webkit-transform: rotate(0deg);}}
+@-moz-keyframes r2 {0%{-moz-transform: rotate(-45deg);}100% {-moz-transform: rotate(0deg);}}
+@-ms-keyframes r2 {0%{-ms-transform: rotate(-45deg);}100% {-ms-transform: rotate(0deg);}}
+@-o-keyframes r2 {0%{-o-transform: rotate(-45deg);}100% {-o-transform: rotate(0deg);}}
+@keyframes r2 {0%{transform: rotate(-45deg);}100% {transform: rotate(0deg);}}
+/* Rotate1 part END */
+
+
+/* Move form bottom START */
+@-webkit-keyframes mT {0%{-webkit-transform: translate(0px,50px);}100% {-webkit-transform: translate(0,0);}}
+@-moz-keyframes mT {0%{-moz-transform: translate(0px,50px);}100% {-moz-transform: translate(0,0);}}
+@-ms-keyframes mT {0%{-ms-transform: translate(0px,50px);}100% {-ms-transform: translate(0,0);}}
+@-o-keyframes mT {0%{-o-transform: translate(0px,50px);}100% {-o-transform: translate(0,0);}}
+@keyframes mT {0%{transform: translate(0px,50px);}100% {transform: translate(0,0);}}
+/* Move form bottom END */
+
+/* Fade logo START */
+@-webkit-keyframes fade {from{opacity: 1;}to{opacity: 0;}}
+@-moz-keyframes fade {from{opacity: 1;}to{opacity: 0;}}
+@-ms-keyframes fade {from{opacity: 1;}to{opacity: 0;}}
+@-o-keyframes fade {from{opacity: 1;}to{opacity: 0;}}
+@keyframes fade {from{opacity: 1;}to{opacity: 0;}}
+/* Fade logo END */
